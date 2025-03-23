@@ -11,6 +11,7 @@
 		EF2AD9D12D905AE500DABC49 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF2AD9D02D905AE500DABC49 /* ContentView.swift */; };
 		EF2AD9D32D905AE800DABC49 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF2AD9D22D905AE800DABC49 /* Assets.xcassets */; };
 		EF2AD9D62D905AE800DABC49 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF2AD9D52D905AE800DABC49 /* Preview Assets.xcassets */; };
+		EF2AD9DD2D90609100DABC49 /* Events.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF2AD9DC2D90609100DABC49 /* Events.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		EF2AD9D02D905AE500DABC49 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EF2AD9D22D905AE800DABC49 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF2AD9D52D905AE800DABC49 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EF2AD9DC2D90609100DABC49 /* Events.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Events.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				EF2AD9CE2D905AE500DABC49 /* KeyLoggerApp.swift */,
 				EF2AD9D02D905AE500DABC49 /* ContentView.swift */,
+				EF2AD9DC2D90609100DABC49 /* Events.swift */,
 				EF2AD9D22D905AE800DABC49 /* Assets.xcassets */,
 				EF2AD9D42D905AE800DABC49 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF2AD9DD2D90609100DABC49 /* Events.swift in Sources */,
 				EF2AD9D12D905AE500DABC49 /* ContentView.swift in Sources */,
 				EF2AD9CF2D905AE500DABC49 /* KeyLoggerApp.swift in Sources */,
 			);
